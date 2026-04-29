@@ -175,7 +175,7 @@ function AppIntroSection() {
           ))}
         </div>
 
-        <Link href="/" className="block">
+        <Link href="/child" className="block">
           <span className="block w-full bg-[#8aab84] hover:bg-[#7a9b74] text-white rounded-full px-8 py-5 text-lg font-medium transition-colors shadow-sm text-center cursor-pointer">
             アプリを使ってみる
           </span>
