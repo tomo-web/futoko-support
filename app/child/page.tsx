@@ -206,7 +206,7 @@ export default function ChildPage() {
     <main className="max-w-lg mx-auto px-4 py-8 space-y-6">
       <div className="flex items-center gap-3">
         {step === "mood" ? (
-          <Link href="/" className="text-sky-600 hover:text-sky-800 text-sm">
+          <Link href="/start" className="text-sky-600 hover:text-sky-800 text-sm">
             ← もどる
           </Link>
         ) : (
