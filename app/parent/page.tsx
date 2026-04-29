@@ -161,9 +161,9 @@ export default function ParentPage() {
   return (
     <main className="max-w-lg mx-auto px-5 py-10 space-y-8">
       <div className="space-y-3">
-        <Link href="/start" className="text-stone-400 hover:text-stone-600 text-sm transition-colors">
+        <a href="https://kimoti.sasabase.com/start" className="text-stone-400 hover:text-stone-600 text-sm transition-colors">
           ← もどる
-        </Link>
+        </a>
         <div>
           <h1 className="text-2xl font-bold text-stone-700">親として使う</h1>
           <p className="text-stone-400 text-xs mt-1">気づきと整理のためのチェックリスト</p>
