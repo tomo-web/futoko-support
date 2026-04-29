@@ -161,7 +161,7 @@ export default function ParentPage() {
   return (
     <main className="max-w-lg mx-auto px-5 py-10 space-y-8">
       <div className="space-y-3">
-        <Link href="/" className="text-stone-400 hover:text-stone-600 text-sm transition-colors">
+        <Link href="/start" className="text-stone-400 hover:text-stone-600 text-sm transition-colors">
           ← もどる
         </Link>
         <div>
