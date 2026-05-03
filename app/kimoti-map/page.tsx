@@ -33,11 +33,16 @@ function Hero() {
           <p className="text-[11px] tracking-[0.3em] text-stone-400 uppercase">
             kimochi no chizu
           </p>
-          <h1 className="text-3xl font-bold text-stone-700 leading-snug tracking-tight">
-            学校に行きづらさを感じている
-            <br />
-            <span className="text-2xl font-semibold text-stone-600">
-              小学生〜中学生の子どもと保護者のために
+          <h1 className="font-bold text-stone-700 leading-snug tracking-tight space-y-2">
+            <span className="block text-2xl">
+              学校に行きづらさを
+              <br />
+              感じている
+            </span>
+            <span className="block text-lg font-semibold text-stone-600">
+              小学生〜中学生の子どもと
+              <br />
+              保護者のために
             </span>
           </h1>
         </div>
