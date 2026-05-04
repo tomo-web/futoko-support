@@ -353,7 +353,7 @@ function NextStepSection() {
 
         <div className="space-y-3">
           <a
-            href="https://www.sasabase.com/contact"
+            href="https://timerex.net/s/sasabase.smile_1809/2dccf03c"
             target="_blank"
             rel="noopener noreferrer"
             className="block"
